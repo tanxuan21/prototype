@@ -1,2 +1,2 @@
-import TODO from "../TODO.vue";
+import TODO from "../TODO/TODO.vue";
 export { TODO, }
